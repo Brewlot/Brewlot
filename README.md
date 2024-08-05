@@ -15,7 +15,7 @@ def about_me():
 
 ## 🚀 About Me
 
-I'm a **30-year-old IT veteran** with over **15 years** of navigating the digital landscape. My true passion lies in **automation**, where I thrive on enhancing existing products and services through intelligent automation. With a mindset geared towards efficiency, I believe that almost everything in today's world can be automated, given the right approach.
+I'm a **30-year-old IT Guru** with over **15 years** of navigating the digital landscape. My true passion lies in **automation**, where I thrive on enhancing existing products and services through intelligent automation. With a mindset geared towards efficiency, I believe that almost everything in today's world can be automated, given the right approach.
 
 ## 🌟 What You'll Find Here
 
